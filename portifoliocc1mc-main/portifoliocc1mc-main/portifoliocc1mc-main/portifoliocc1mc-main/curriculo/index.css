@@ -1,0 +1,26 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+header {
+    background-color:whitesmoke;
+    text-align:initial;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-right: 70;
+    font-style:initial;
+    flex-direction: row; 
+    border-radius: 30%;
+}
+header img {
+    border-radius: 40%;
+}
+header h1 {
+    color: black;
+    font-style:oblique;
+}
+
